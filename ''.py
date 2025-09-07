@@ -1,5 +1,10 @@
-import math
+luku = int(input("anna kokonaisluku"))
 
-inport math
+if luku < 0:
+    print(f"luvun itseisarvo on {luku}")
+else:
+    print(f"luvun itseisarvo on {luku}. ")
 
-print(f"{math.pipipi:,5f}")
+
+
+
