@@ -1,5 +1,5 @@
-OIKA_TUNNUS = "python"
-OIKA_SALASANA = "rules"
+TUNNUS = "python"
+SALASANA = "rules"
 
 yritykset = 0
 max_yritykset = 5
@@ -7,7 +7,8 @@ max_yritykset = 5
 while yritykset < max_yritykset:
     tunnus = input("Anna käyttäjätunnus: ")
     salasana = input("Anna salasana: ")
-    if tunnus == OIKA_TUNNUS and salasana == OIKA_SALASANA:
+    if tunnus g
+    and salasana == OIKA_SALASANA:
         print("Tervetuloa")
         break
     else:

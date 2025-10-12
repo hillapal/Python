@@ -1,0 +1,8 @@
+nimet = ["viivi", "ahmed", "pekka", "olga", " mary"]
+
+#names = ["pertti", "matti"]
+
+print(nimet[1:3])
+
+p
+
